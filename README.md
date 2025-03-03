@@ -1,7 +1,4 @@
-Voici un **README extrêmement détaillé** pour votre projet, structuré pour que le professeur puisse l'utiliser facilement et comprendre où se situent les problèmes potentiels. Ce document fournit toutes les informations nécessaires pour installer, configurer et exécuter le projet, tout en abordant les problèmes connus et leurs solutions.
-
----
-
+<<<<<<< HEAD
 # **README - Application de Liste de Courses (React & PHP)**
 
 ## **Description du Projet**
@@ -203,3 +200,6 @@ Voici quelques commandes importantes pour le backend :
 Ce README fournit toutes les informations nécessaires pour configurer et faire fonctionner le projet. Le projet fonctionne **uniquement avec `npm run dev`** pour le frontend, ce qui signifie qu'il doit être exécuté en mode développement, et ne sera pas pleinement fonctionnel en mode production sans une configuration adéquate pour la production.
 
 Le backend est fonctionnel pour l'ajout et la récupération des articles, mais des problèmes subsistent avec la mise à jour et la suppression des articles. Si vous rencontrez des problèmes, suivez les solutions proposées ci-dessus pour corriger les erreurs.
+=======
+# frontend
+>>>>>>> b41f3eac0a60a55e4b6bf9e7066d9782969eb4bd
